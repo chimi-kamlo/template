@@ -1,0 +1,27 @@
+.projectCartContainer {
+
+    width: 382px;
+    height: 230px;
+    text-align: center;
+
+    display: flex;
+    flex-direction: column;
+
+
+}
+
+.projetImage {
+    max-width: 382px;
+    max-height: 215px;
+
+}
+
+.projectCartContainer>span {
+    margin-top: -10px;
+
+    text-align: center;
+    font-family: SF Pro Rounded;
+    font-size: 20px;
+    font-weight: 500;
+    line-height: 107%;
+}

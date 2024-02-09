@@ -1,0 +1,14 @@
+.contact{
+    height: 820px;
+    margin-top: 60px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+
+}
+.inputContainer{
+    width: 868px;
+    height: 70px;
+    display: flex;   
+    justify-content: space-between;
+}

@@ -1,0 +1,6 @@
+.containerContain {
+    width: 1200px;
+    height: 435px;
+    display: flex;
+    margin-top: 100px;
+}

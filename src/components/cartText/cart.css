@@ -1,0 +1,54 @@
+.cartTitle {
+    color: #A8C027;
+    font-family: SF Pro Rounded;
+    font-size: 65px;
+    font-weight: 500;
+    letter-spacing: -1px;
+    margin-bottom: 15px;
+}
+
+.cartSousTitle {
+    color: #6B6B6B;
+    font-family: Roboto;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 120%;
+    letter-spacing: -0.16px;
+    width: 330px;
+    height: 60px;
+
+}
+
+.cartContainerText {
+    width: 700px;
+    height: 430px;
+    display: flex;
+    flex-direction: column;
+}
+
+.cartDescription {
+    color: #2F2F2F;
+    font-family: SF Pro Rounded;
+    font-size: 22px;
+    font-weight: 500;
+    line-height: 130%;
+    letter-spacing: -0.22px;
+    margin-top: 10px;
+    width: 324px;
+    height: 320px;
+    display: flex;
+    flex-direction: column;
+
+}
+
+.cartcontainimag {
+    width: 686px;
+    height: 430px;
+    border-radius: 25px;
+    object-fit: cover;
+    object-position: center;
+}
+.imagCart{
+  width: 100%;
+  height: 100%;
+}

@@ -1,0 +1,25 @@
+.label {
+    display: block;
+    color: #5E5E5E;
+    font-family: SF Pro Rounded;
+    font-size: 18px;
+    font-weight: 400;
+
+}
+.input{
+    width: 394px;
+}
+.longInput,.textarea{
+    width: 868px;
+    
+}
+.longInput,.input{
+    height: 43px;
+    border-radius: 5.964px;
+}
+.textarea{
+    height: 162px;
+    resize: none;
+    border-radius: 5.964px;
+
+}

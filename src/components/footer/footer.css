@@ -1,0 +1,43 @@
+.footer {
+    display: flex;
+    justify-content: center;
+    height: 500px;
+    background-color: #1C1C1C;
+    color: #DCDCDC;
+    font-family: SF Pro Rounded;
+    font-size: 20px;
+    font-weight: 400;
+    line-height: 225%;
+    letter-spacing: 0.2px;
+    margin-top: 40px;
+}
+
+.footer>div {
+    width: 1200px;
+    display: flex;
+    justify-content: space-between;
+    margin-top: 50px;
+
+}
+
+.Address_container,
+.Services_container,
+.Resources_container,
+.Information_container {
+    
+    display: flex;
+    flex-direction: column;
+    width: 227px;
+}
+
+.Services_container span,
+.Resources_container span,
+.Information_container span {
+    margin-bottom: 10px;
+}
+/* 
+.footer_title {
+    margin-bottom: 10px;
+    border-bottom: 3px solid #A8C027;
+    width: 53px;
+} */

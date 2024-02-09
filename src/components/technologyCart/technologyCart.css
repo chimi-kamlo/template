@@ -1,0 +1,38 @@
+.technologyCart {
+    width: 290px;
+    height: 390px;
+   
+    border-radius: 12px;
+
+}
+
+.technologyCart>img {
+    margin-bottom: 10px;
+    max-width: 289px;
+    max-height: 215px;
+    object-fit: cover;
+    object-position: center;
+}
+
+.technologyCart>p {
+    margin-top: 50px;
+    margin-left: 10px;
+    color: rgba(0, 0, 0, 0.55);
+    font-family: SF Pro Rounded;
+    font-size: 21px;
+
+    font-weight: 500;
+    letter-spacing: -0.21px;
+}
+
+.technologyCart>h2 {
+    margin-left: 10px;
+    color: #000;
+    text-shadow: 0px 0px 4px rgba(0, 0, 0, 0.25);
+    font-family: SF Pro Rounded;
+    font-size: 21px;
+    font-weight: 500;
+    letter-spacing: -0.21px;
+    width: 260px;
+    height: 25px;
+}
